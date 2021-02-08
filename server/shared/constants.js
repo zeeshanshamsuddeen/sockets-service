@@ -1,0 +1,8 @@
+const constants = {
+  DEFAULT: 'DEFAULT',
+  FEDEX_RATES_LABELS_AND_TRACKING_APP: 'FEDEX_RATES_LABELS_AND_TRACKING_APP',
+
+  FEDEX_APP_SERVICE_ID: 'S01',
+};
+
+module.exports = constants;
